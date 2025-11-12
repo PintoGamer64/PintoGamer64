@@ -11,7 +11,7 @@
 
 # > <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
 
-| ![Ookami](https://github-readme-stats.vercel.app/api/pin/?username=mikedev64&show_owner=true&repo=JavaScriptNovel&theme=radical&hide_border=true) | ![PngtubeStudioProject](https://github-readme-stats.vercel.app/api/pin/?username=mikedev64&show_owner=true&repo=SteamClonAI&theme=radical&hide_border=true) |
+| ![https://github.com/mikedev64/GameScriptJs](https://github-readme-stats.vercel.app/api/pin/?username=mikedev64&show_owner=true&repo=GameScriptJs&theme=radical&hide_border=true) | ![https://github.com/mikedev64/SteamClonAI](https://github-readme-stats.vercel.app/api/pin/?username=mikedev64&show_owner=true&repo=SteamClonAI&theme=radical&hide_border=true) |
 | ----- | ----- |
 
 # > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
